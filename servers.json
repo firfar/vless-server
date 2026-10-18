@@ -4,7 +4,7 @@
   "servers": [
     {
       "id": "au-001",
-      "name": "Australia",
+      "name": "Canada",
       "country": "Australia",
       "protocol": "vless-reality",
       "uri": "vless://REDACTED_UUID@SERVER_HOST:PORT?security=reality&pbk=REDACTED_PUBLIC_KEY&fp=chrome&sni=example.com&sid=REDACTED_SHORT_ID&type=tcp#Australia",
